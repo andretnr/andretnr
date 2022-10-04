@@ -5,6 +5,8 @@
 
 ![](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andretnr&show_icons=true&theme=radical)
+
 Skills: JAVA / JS / TS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 

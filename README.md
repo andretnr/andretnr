@@ -5,7 +5,7 @@
 
 ![](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andretnr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andretnr&show_icons=true&theme=tokyonight)
 
 Skills: JAVA / JS / TS / HTML / CSS
 

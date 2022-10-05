@@ -11,8 +11,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andretnr&theme=tokyonight)](https://github.com/andretnr/github-readme-stats)
 
-Skills: JAVA / JS / TS / HTML / CSS
+![](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
 
+![](https://cdn-icons-png.flaticon.com/64/226/226777.png) 
+![](https://cdn-icons-png.flaticon.com/64/5968/5968292.png)
+![](https://cdn-icons-png.flaticon.com/64/5968/5968381.png)
+![](https://cdn-icons-png.flaticon.com/64/1051/1051277.png)
+![](https://cdn-icons-png.flaticon.com/64/732/732190.png)
+![](https://cdn-icons-png.flaticon.com/64/6577/6577287.png)
+![](https://cdn-icons-png.flaticon.com/64/906/906324.png)
+![](https://cdn-icons-png.flaticon.com/64/3594/3594172.png)
+![](https://cdn-icons-png.flaticon.com/64/873/873107.png)
 - 🔭 I’m currently working on this page. 
 
 
